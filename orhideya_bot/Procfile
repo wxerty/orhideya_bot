@@ -1,1 +1,1 @@
-worker: python bot.py
+worker: python orhideya_bot/bot.py
